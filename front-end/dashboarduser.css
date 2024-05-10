@@ -708,3 +708,43 @@ body {
 	width: 50px;
 	margin: 20px;
   }
+
+  .personalinfos {
+	background-color: #f3f3f3;
+    margin: 20px;
+    border-radius: 30px;
+    width: 590px;
+    height: 180px;
+	display: flex;
+	
+  }
+  .personalinfos img{
+	width: 70px;
+	margin: 40px;
+  }
+  .personalinfos .div{
+	display: flex;
+  }
+  .personalinfos .infoss span{
+	color: #1E1B6D;
+	font-size: 13px;
+	font-weight: 30px;
+  }
+  .personalinfos .infoss {
+	color: #007bff;
+  }
+
+  .personalinfos .icon i{
+	
+	color: #007bff;
+	padding-left: 120px;
+	padding-top: 10px;
+  }
+
+  .personalinfos .icon i:hover{
+	color: #1E1B6D;
+
+  }
+  .personalinfos .title{
+	color: #1E1B6D;
+  }
